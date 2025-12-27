@@ -1,0 +1,78 @@
+{
+  "run_started": "2025-12-27T17:47:28.568340+11:00",
+  "run_ended": "2025-12-27T17:47:42.753372+11:00",
+  "duration_sec": 14.183455,
+  "ticker": "NVDA",
+  "ticker_folder": "NVDA",
+  "output_dir": "outputs/20251227_174735/NVDA",
+  "generated_files": {
+    "income_statement": {
+      "saved": true,
+      "path": "outputs/20251227_174735/NVDA/income_statement.csv",
+      "summary": {
+        "empty": false,
+        "rows": 43,
+        "cols": 6,
+        "columns": [
+          "line_item",
+          "statement",
+          "2025-01-31 00:00:00",
+          "2024-01-31 00:00:00",
+          "2023-01-31 00:00:00",
+          "2022-01-31 00:00:00"
+        ]
+      }
+    },
+    "balance_sheet": {
+      "saved": true,
+      "path": "outputs/20251227_174735/NVDA/balance_sheet.csv",
+      "summary": {
+        "empty": false,
+        "rows": 86,
+        "cols": 7,
+        "columns": [
+          "line_item",
+          "statement",
+          "2025-01-31 00:00:00",
+          "2024-01-31 00:00:00",
+          "2023-01-31 00:00:00",
+          "2022-01-31 00:00:00",
+          "2021-01-31 00:00:00"
+        ]
+      }
+    },
+    "cash_flow": {
+      "saved": true,
+      "path": "outputs/20251227_174735/NVDA/cash_flow.csv",
+      "summary": {
+        "empty": false,
+        "rows": 58,
+        "cols": 7,
+        "columns": [
+          "line_item",
+          "statement",
+          "2025-01-31 00:00:00",
+          "2024-01-31 00:00:00",
+          "2023-01-31 00:00:00",
+          "2022-01-31 00:00:00",
+          "2021-01-31 00:00:00"
+        ]
+      }
+    }
+  },
+  "yfinance_fast_info": {
+    "currency": "USD",
+    "exchange": "NMS",
+    "quoteType": "EQUITY",
+    "marketCap": 4638833880279.541,
+    "lastPrice": 190.52999877929688,
+    "previousClose": 188.05,
+    "timezone": "America/New_York"
+  },
+  "versions": {
+    "python": "3.12.10",
+    "pandas": "2.3.3",
+    "yfinance": "0.2.66"
+  },
+  "platform": "Windows-11-10.0.26200-SP0"
+}
